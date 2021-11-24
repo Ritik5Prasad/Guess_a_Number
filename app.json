@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "Rprojects",
+    "slug": "Random_Num_Game",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/Ritik.png",
+    "splash": {
+      "image": "./assets/Ritik.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#000000"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/Ritik.png",
+        "backgroundColor": "#000000"
+      },
+      "package": "com.rv724405.Random_Num_Game"
+    },
+    "web": {
+      "favicon": "./assets/Ritik.png"
+    }
+  }
+}
