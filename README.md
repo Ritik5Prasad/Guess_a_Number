@@ -1,4 +1,1 @@
-# Ritik5Prasad
-# Ritik5Prasad
-# Ritik5Prasad
-# Ritik5Prasad
+CODED ON REACT NATIVE CLI
