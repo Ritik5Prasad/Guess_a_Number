@@ -1,2 +1,2 @@
 # Guess_a_Number
-This is my first React Native Project....
+Built on React Native CLI
